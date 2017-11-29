@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![picture_title](https://github.com/frickb10/frickb10.github.io/blob/master/Brooklyn.PNG?raw=true "Optional Title")
+![Brooklyn](https://github.com/frickb10/frickb10.github.io/blob/master/Brooklyn.PNG?raw=true "Optional Title")
 
 
 ***
